@@ -63,6 +63,8 @@ Explorer : https://goerli.etherscan.io
 
 ### Faucet
 
+- https://goerli-faucet.slock.it/
+- https://faucet.goerli.mudit.blog/
 - https://faucet.matic.network/
 
 ## Testnet Ethereum (Kovan)
