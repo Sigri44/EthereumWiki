@@ -12,6 +12,7 @@ Wiki for Ethereum network (Mainnet, testnet and Layer2)
 * [Ethereum - Testnet (Rinkeby)](#testnet-ethereum-rinkeby)
 * [Ethereum - Testnet (Goerli)](#testnet-ethereum-goerli)
 * [Ethereum - Testnet (Kovan)](#testnet-ethereum-kovan)
+* [Ethereum - Rollup (Arbitrum)](#testnet-rollup-arbitrum)
 * [Binance - Binance Smart Chain Mainnet](#binance-smart-chain-mainnet)
 * [Matic - Mainnet](#mainnet-matic)
 * [Matic - Testnet (Mumbai)](#testnet-matic-mumbai)
@@ -116,3 +117,17 @@ Explorer : https://explorer-mumbai.maticvigil.com/
 ### Wallet
 
 - https://wallet.matic.today/
+
+## Testnet Rollup (Arbitrum)
+### Network Config
+```
+Name : Rollup Arbitrum
+RPC URL : https://kovan2.arbitrum.io/rpc
+chain ID : 152709604825713
+Symbol : ETH
+Explorer : https://explorer.offchainlabs.com/
+```
+
+###Bridge
+
+- https://bridge.arbitrum.io/
