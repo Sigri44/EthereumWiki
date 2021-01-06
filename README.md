@@ -40,6 +40,8 @@ Explorer : https://ropsten.etherscan.io
 ### Faucet
 
 - https://faucet.ropsten.be/
+- https://faucet.metamask.io/
+- https://faucet.dimensions.network/
 
 ## Testnet Ethereum (Rinkeby)
 ### Network Config
